@@ -1,0 +1,6 @@
+{
+  "name": "AI Investigation Copilot",
+  "description": "Unified Explainability Engine for criminal and intelligence network graph analysis, multi-hop evidence trails, and proactive investigative lead generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
